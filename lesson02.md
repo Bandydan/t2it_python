@@ -280,6 +280,8 @@ git branch # видаляє, створює та перераховує гілк
 
 [Онлайн книга про Git](https://git-scm.com/book/ru/v2)
 
+[Про пул-реквести](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+
 # Домашнє завдання
 
 #### Перший рівень ("Резервне копіювання"):
@@ -290,3 +292,4 @@ git branch # видаляє, створює та перераховує гілк
 
 #### Третій рівень ("Розподілена система контролю версій"):
 Вивчити роботу з командою git clone, спробувати розгорнути у себе маленький проєкт з github. (Проєкт рівня HTML+CSS)
+
